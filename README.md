@@ -1,6 +1,6 @@
 ## [Multilingual Auxiliary Tasks Training: Bridging the Gap betweenLanguages for Zero-Shot Transfer of Hate Speech Detection Models]()
 
-This is the official repository for the paper. Please note that the data may be distributed upon request (contact arij.riabi@inria.fr) and for academic purposes only.
+This is the official repository for the paper. Please due to licence restrictions on the original data set,  we can only provide our strictly comparable cross-lingual hate-speech framework upon requests directed at arij.riabi@inria.fr (Original terms of usage apply).
 
 ### Shared tasks used for the Hate speech corpora
 
