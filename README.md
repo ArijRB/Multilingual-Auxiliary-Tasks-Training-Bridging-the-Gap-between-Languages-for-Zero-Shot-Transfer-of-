@@ -1,5 +1,7 @@
 ## [Multilingual Auxiliary Tasks Training: Bridging the Gap betweenLanguages for Zero-Shot Transfer of Hate Speech Detection Models]()
 
+This is the official repository for the paper. Please note that the data may be distributed upon request (contact arij.riabi@inria.fr) and for academic purposes only.
+
 ### Shared tasks used for the Hate speech corpora
 
 | Shared task      | Link                                                     |
@@ -30,3 +32,7 @@ Only the immigrants-es dataset has no blind set.
 | es       | 42         | 40.23 |
 | it       | 31.33      | 45.42 |
 
+If you make use of this dataset, please cite us:
+BibTeX entry and citation info
+
+TO DO ADD
