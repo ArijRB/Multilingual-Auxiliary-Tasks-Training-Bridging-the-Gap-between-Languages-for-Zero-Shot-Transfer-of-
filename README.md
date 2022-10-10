@@ -21,3 +21,12 @@ Only the immigrants-es dataset has no blind set.
 | women-en        | 4500  | 500 | 1472 | .     |
 | women-es        | 2882  | 327 | 799  | .     |
 | Comparable size | 1618  | 173 | 800  | 1000  |
+
+### Percentage of hateful examples in the train set for the comparable setting
+
+| Language | immigrants | women |
+|----------|------------|-------|
+| en       | 41.28      | 42.76 |
+| es       | 42         | 40.23 |
+| it       | 31.33      | 45.42 |
+
