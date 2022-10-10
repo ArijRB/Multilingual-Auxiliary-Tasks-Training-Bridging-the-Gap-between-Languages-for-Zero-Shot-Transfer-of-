@@ -4,6 +4,7 @@
 
 | Shared task      | Link                                                     |
 |------------------|----------------------------------------------------------|
-| Hateval          | \url{https://github.com/msang/hateval}                   |
-| EVALITA AMi 2018 | \url{https://github.com/MIND-Lab/ami2018}                |
-| HaSpeeDe 2018    | \url{https://github.com/msang/haspeede/tree/master/2018} |
+| Hateval          | https://github.com/msang/hateval                         |
+| EVALITA AMi 2018 | https://github.com/MIND-Lab/ami2018                      |
+| HaSpeeDe 2018    | https://github.com/msang/haspeede/tree/master/2018       |
+
