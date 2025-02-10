@@ -33,6 +33,25 @@ Only the immigrants-es dataset has no blind set.
 | it       | 31.33      | 45.42 |
 
 If you make use of this dataset, please cite us:
-BibTeX entry and citation info
-
-TO DO ADD
+```
+@inproceedings{montariol-etal-2022-multilingual,
+    title = "Multilingual Auxiliary Tasks Training: Bridging the Gap between Languages for Zero-Shot Transfer of Hate Speech Detection Models",
+    author = "Montariol, Syrielle  and
+      Riabi, Arij  and
+      Seddah, Djam{\'e}",
+    editor = "He, Yulan  and
+      Ji, Heng  and
+      Li, Sujian  and
+      Liu, Yang  and
+      Chang, Chua-Hui",
+    booktitle = "Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022",
+    month = nov,
+    year = "2022",
+    address = "Online only",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-aacl.33/",
+    doi = "10.18653/v1/2022.findings-aacl.33",
+    pages = "347--363",
+    abstract = "Zero-shot cross-lingual transfer learning has been shown to be highly challenging for tasks involving a lot of linguistic specificities or when a cultural gap is present between lan- guages, such as in hate speech detection. In this paper, we highlight this limitation for hate speech detection in several domains and languages using strict experimental settings. Then, we propose to train on multilingual auxiliary tasks {--} sentiment analysis, named entity recognition, and tasks relying on syntactic information {--} to improve zero-shot transfer of hate speech detection models across languages. We show how hate speech detection models benefit from a cross-lingual knowledge proxy brought by auxiliary tasks fine-tuning and highlight these tasks' positive impact on bridging the hate speech linguistic and cultural gap between languages."
+}
+```
