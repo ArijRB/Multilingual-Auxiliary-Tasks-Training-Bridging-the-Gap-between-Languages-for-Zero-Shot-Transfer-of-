@@ -34,6 +34,27 @@ Only the immigrants-es dataset has no blind set.
 
 If you make use of this dataset, please cite us:
 ```
+@inproceedings{riabi-etal-2022-taches,
+    title = "T{\^a}ches Auxiliaires Multilingues pour le Transfert de Mod{\`e}les de D{\'e}tection de Discours Haineux (Multilingual Auxiliary Tasks for Zero-Shot Cross-Lingual Transfer of Hate Speech Detection)",
+    author = "Riabi, Arij  and
+      Montariol, Syrielle  and
+      Seddah, Djam{\'e}",
+    editor = "Est{\`e}ve, Yannick  and
+      Jim{\'e}nez, Tania  and
+      Parcollet, Titouan  and
+      Zanon Boito, Marcely",
+    booktitle = "Actes de la 29e Conf{\'e}rence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conf{\'e}rence principale",
+    month = "6",
+    year = "2022",
+    address = "Avignon, France",
+    publisher = "ATALA",
+    url = "https://aclanthology.org/2022.jeptalnrecital-taln.41/",
+    pages = "413--423",
+    language = "fra",
+    abstract = "La t{\^a}che de d{\'e}tection de contenus haineux est ardue, car elle n{\'e}cessite des connaissances culturelles et contextuelles approfondies ; les connaissances n{\'e}cessaires varient, entre autres, selon la langue du locateur ou la cible du contenu. Or, des donn{\'e}es annot{\'e}es pour des domaines et des langues sp{\'e}cifiques sont souvent absentes ou limit{\'e}es. C`est l{\`a} que les donn{\'e}es dans d`autres langues peuvent {\^e}tre exploit{\'e}es ; mais du fait de ces variations, le transfert cross-lingue est souvent difficile. Dans cet article, nous mettons en {\'e}vidence cette limitation pour plusieurs domaines et langues et montrons l`impact positif de l`apprentissage de t{\^a}ches auxiliaires multilingues - analyse de sentiments, reconnaissance des entit{\'e}s nomm{\'e}es et t{\^a}ches reposant sur des informations morpho-syntaxiques - sur le transfert cross-lingue z{\'e}ro-shot des mod{\`e}les de d{\'e}tection de discours haineux, afin de combler ce foss{\'e} culturel."
+}
+```
+```
 @inproceedings{montariol-etal-2022-multilingual,
     title = "Multilingual Auxiliary Tasks Training: Bridging the Gap between Languages for Zero-Shot Transfer of Hate Speech Detection Models",
     author = "Montariol, Syrielle  and
